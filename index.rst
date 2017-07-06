@@ -4,6 +4,9 @@
 	contain the root `toctree` directive.
 	
 
+Welcome to GlobaLeaks's documentation!
+======================================
+
 GlobaLeaks is an open-source, free software intended to enable secure and anonymous whistleblowing initiatives developed by the Hermes Center for Transparency and Digital Human Rights.
 
 .. toctree::
