@@ -1,5 +1,5 @@
 =======================
-GlobaLeaks Backup Guide
+Backup Guide
 =======================
 
 The following commands are required in order to create a backup of GlobaLeaks:

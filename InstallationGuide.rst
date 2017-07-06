@@ -1,5 +1,5 @@
 =============================
-GlobaLeaks installation guide
+Installation guide
 =============================
 
 The following is intended to guide you through the installation and running of GlobaLeaks on a Debian based system.

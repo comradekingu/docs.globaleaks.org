@@ -1,5 +1,5 @@
 ========================
-GlobaLeaks Upgrade guide
+Upgrade guide
 ========================
 
 How to upgrade GlobaLeaks

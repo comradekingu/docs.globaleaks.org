@@ -1,4 +1,4 @@
-GlobaLeaks Features
+Features
 ===================
 
 - Configurable contexts
