@@ -20,12 +20,11 @@ GlobaLeaks is an open-source, free software intended to enable secure and anonym
 	AdvancedConfiguration
 	UpgradeGuide
 	BackupGuide
-	IntegrationGuide
 	TroubleshootingGuide
 	
 .. todo::
-
-developers/ExperimentalReleasesGuidelines
+	InstallationGuide
+	developers/ExperimentalReleasesGuidelines
 
 * :ref:`genindex`
 * :ref:`modindex`
