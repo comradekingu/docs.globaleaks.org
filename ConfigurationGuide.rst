@@ -17,17 +17,25 @@ You can reach the authentication interface with your browser in two ways:
 - or, from your Tor Hidden Service hostname with Tor Browser:
 
   Example: http://2rwejhgkn3c2z56g.onion/#/login
+   
+.. image:: AdminLogin.png
+
 
 .. note::
    Loading the interface may take a while, due to the High Latency of Tor Hidden Service.
    
+.. todo::
+   screenshot of the firt login interface
    
-.. image:: AdminLogin.png
 
 This will bring you to the page for "Step-by-step setup"
 
 Choose the primary language for the site. The default choice is English, but many others are available.
 
+.. todo::
+   screenshot of the primary language selection interface
+   
+   
 Once selected, click "next".
 
 The second page will bring you to the setup of your project. Needed fields are, by section:
