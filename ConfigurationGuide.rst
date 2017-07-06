@@ -24,39 +24,43 @@ You can reach the authentication interface with your browser in two ways:
 .. note::
    Loading the interface may take a while, due to the High Latency of Tor Hidden Service.
    
+   
 .. todo::
    screenshot of the firt login interface
    
-
-This will bring you to the page for "Step-by-step setup"
-
-Choose the primary language for the site. The default choice is English, but many others are available.
+   
+   This will bring you to the page for "Step-by-step setup"
+   
+   Choose the primary language for the site. The default choice is English, but many others are available.
 
 .. todo::
    screenshot of the primary language selection interface
    
    
-Once selected, click "next".
+   Once selected, click "next".
+   
+   The second page will bring you to the setup of your project. Needed fields are, by section:
+   
+   - "General", section Project name Project description
+   
+   - "Admin" section
+   
+   - email address password password confirmation
+   
+   - "Recipient" section
+   
+   - Name Email address Password PGP Key Option: Enable insecure configuration without PGP encryption.
+   
+   - "Context" section
+   
+   - Name
+   
+   
+   Once this is done, a "next step" button will appear. Click on it when ready.
 
-The second page will bring you to the setup of your project. Needed fields are, by section:
-
-- "General", section Project name Project description
-
-- "Admin" section
-
-- email address password password confirmation
-
-- "Recipient" section
-
-- Name Email address Password PGP Key Option: Enable insecure configuration without PGP encryption.
-
-- "Context" section
-
-Name
-
-Once this is done, a "next step" button will appear. Click on it when ready.
 
 STEP 2 - Login as admin
+-----------------------
 
 You should login to the admin interface of your GlobaLeaks node. Link http://your-url:your-port/#/admin/landing
 
