@@ -26,7 +26,7 @@ You can reach the authentication interface with your browser in two ways:
    
    
 .. todo::
-   screenshot of the firt login interface
+.. screenshot of the firt login interface
    
    
    This will bring you to the page for "Step-by-step setup"
@@ -34,7 +34,7 @@ You can reach the authentication interface with your browser in two ways:
    Choose the primary language for the site. The default choice is English, but many others are available.
 
 .. todo::
-   screenshot of the primary language selection interface
+.. screenshot of the primary language selection interface
    
    
    Once selected, click "next".
