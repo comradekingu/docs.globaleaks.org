@@ -19,7 +19,7 @@ You can reach the authentication interface with your browser in two ways:
   Example: http://2rwejhgkn3c2z56g.onion/#/login
    
 .. image:: AdminLogin.png
-
+  
 
 .. note::
    Loading the interface may take a while, due to the High Latency of Tor Hidden Service.
