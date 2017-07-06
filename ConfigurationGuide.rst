@@ -21,7 +21,7 @@ You can reach the authentication interface with your browser in two ways:
 .. note::
    Loading the interface may take a while, due to the High Latency of Tor Hidden Service.
    
- .. image:: AdminLogin.png
+.. image:: AdminLogin.png
 
 This will bring you to the page for "Step-by-step setup"
 
