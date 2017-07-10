@@ -21,20 +21,29 @@ Note that loading the interface may take a while, due to the High Latency of Tor
 This will bring you to the page for "Step-by-step setup"
 
 
-.. image:: wizard1.png
+.. image:: wizard0.png
 
 
 STEP 2: Choose the primary language for the site
 ------------------------------------------------
 
-In this section of the wizard you select the language which will be used as primary language for you GlobaLeaks installation.
+In this section of the wizard you select the language which will be used as primary language for your GlobaLeaks installation.
 Default choice is English, but many others lanaguages are available and more are expected to be available in the future.
 
 
+.. image:: wizard1.png
+
+
+Once selected, click on the "next" button to access the General section of the wizard.
+
+
+STEP 3: Configure Project's name and Description
+------------------------------------------------
+
+This wizard's section is where you set up name and description of the project. 
+
+
 .. image:: wizard2.png
-
-
-Once selected, click on the "next" button to access the General section of the wizard, where you set up your name and descrription of the project. 
 
 
 Needed fields are, by section:
