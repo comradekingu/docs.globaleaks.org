@@ -10,12 +10,12 @@ STEP 1: Access Platform Wizard
 
 You can reach the Platform Wizard by your browser in two ways:
 
-- from the same computer you installed GlobaLeaks on: http://127.0.0.1:8080/#/wizard
+  - from the same computer you installed GlobaLeaks on: http://127.0.0.1:8080/#/wizard
 
-- from your Tor Hidden Service hostname with Tor Browser: Example: http://2rwejhgkn3c2z56g.onion/#/wizard
+  - from your Tor Hidden Service hostname with Tor Browser: Example: http://2rwejhgkn3c2z56g.onion/#/wizard
 
 
-.. note:: Loading the interface may take a while, due to the High Latency of Tor Hidden Service
+Note that loading the interface may take a while, due to the High Latency of Tor Hidden Service
 
 
 This will bring you to the page for "Step-by-step setup"
@@ -27,14 +27,17 @@ This will bring you to the page for "Step-by-step setup"
 STEP 2: Choose the primary language for the site
 ------------------------------------------------
 
-The default choice is English, but many others lanaguages are available and more are expected to be available in the future.
+In this section of the wizard you select the language which will be used as primary language for you GlobaLeaks installation.
+Default choice is English, but many others lanaguages are available and more are expected to be available in the future.
 
 
 .. image:: wizard2.png
 
 
- Once selected, click on "next" button to access to the page where you set up your project. 
- Needed fields are, by section:
+Once selected, click on the "next" button to access the General section of the wizard, where you set up your name and descrription of the project. 
+
+
+Needed fields are, by section:
    
    - "General", section Project name Project description
    
