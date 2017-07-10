@@ -35,7 +35,7 @@ Default choice is English, but many others lanaguages are available and more are
 .. image:: wizard1.png
 
 
-Once selected, click on the "next" button to access the General section of the wizard.
+Once selected, click on the "next step" button to access the General section of the wizard.
 
 
 STEP 3: Configure Project's name and Description
@@ -49,7 +49,7 @@ This wizard's section is where you set up name and description of the project.
 
 Choose a name and description that describe your project to the intended audience of your GlobaLeaks installation.
 
-When done, click on "next" button to access to the section where configuring admin credentials.
+When done, click on "next step" button to access to the section where configuring admin credentials.
 
 
 STEP 4: Configure admin account
@@ -57,33 +57,40 @@ STEP 4: Configure admin account
 
 This wizard's section is where you set up email adreess and password for the admin.
 
-Keep in mind to choose a strong password in order to protect this sensitive account.
+Keep in mind to choose a strong password in order to protect this sensitive account; an indication of the strength of the choosen password is shown to guide you in this task.
 
 
 .. image:: wizard3.png
 
 
-In order to proceed, click on the "next" button.
+In order to proceed, click on the "next step" button.
 
 
-STEP 5: 
----------------
+STEP 5: Setting up the Context
+-------------------------------
+
+In this section of the configuration wizard you set up the Context (todo: insert cross-reference with matching term in Glossary).
+
+
+.. image:: wizard4.png
+
+
+Click on the "next step" button to proceed.
+
+
+STEP 6: 
+----------
 
 
 
 Needed fields are, by section:
    
-   - "General", section Project name Project description
-   
-   - "Admin" section
-   
-   - email address password password confirmation
-   
+ 
    - "Recipient" section
    
    - Name Email address Password PGP Key Option: Enable insecure configuration without PGP encryption.
    
-   - "Context" section
+  
    
    - Name
    
