@@ -1,14 +1,13 @@
-===================
-Configuration Guide
-===================
+=========================
+First Configuration Guide
+=========================
 
-Configure your GlobaLeaks installation and make it capable of receiving anonymous submissions that get dispatched to configured recipients.
+You have just installed your GlobaLeaks and you have to make it capable of receiving anonymous submissions that get dispatched to configured recipients. To achieve this you have to access to the Platform Wizard.
 
-STEP 1 - Access Authentication interface
+STEP 1 - Access Platform Wizard
 ----------------------------------------
-The authentication interface is where you can log in. Both admin and recipients can authenticate with username and password.
 
-You can reach the authentication interface with your browser in two ways:
+You can reach the Platform Wizard by your browser in two ways:
 
 - From the same computer you installed GlobaLeaks on:
 
@@ -18,10 +17,11 @@ You can reach the authentication interface with your browser in two ways:
 
   Example: http://2rwejhgkn3c2z56g.onion/#/login
   
+  
 .. note::
    Loading the interface may take a while, due to the High Latency of Tor Hidden Service
    
-   
+ 
    This will bring you to the page for "Step-by-step setup"
    
 .. image:: wizard1.png
