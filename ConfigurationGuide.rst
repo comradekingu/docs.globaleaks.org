@@ -12,13 +12,13 @@ You can reach the authentication interface with your browser in two ways:
 
 - From the same computer you installed GlobaLeaks on:
 
-  Example: http://127.0.0.1:8082/#/login
+  http://127.0.0.1:8080/#/wizard
 
 - or, from your Tor Hidden Service hostname with Tor Browser:
 
   Example: http://2rwejhgkn3c2z56g.onion/#/login
    
-.. image:: AdminLogin.png
+.. image:: wizard1.png
   
 
 .. note::
@@ -31,15 +31,12 @@ You can reach the authentication interface with your browser in two ways:
    
    This will bring you to the page for "Step-by-step setup"
    
-   Choose the primary language for the site. The default choice is English, but many others are available.
+   Choose the primary language for the site. The default choice is English, but many others lanaguages are available and more are expected to be available.
 
-.. todo::
-.. screenshot of the primary language selection interface
+.. image:: wizard2.png
    
-   
-   Once selected, click "next".
-   
-   The second page will bring you to the setup of your project. Needed fields are, by section:
+   Once selected, click on "next" button to access to the page where you set up your project. 
+   Needed fields are, by section:
    
    - "General", section Project name Project description
    
