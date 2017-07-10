@@ -4,25 +4,26 @@ First Configuration Guide
 
 You have just installed your GlobaLeaks and you have to make it capable of receiving anonymous submissions that get dispatched to configured recipients. To achieve this you have to access to the Platform Wizard.
 
+
 STEP 1: Access Platform Wizard
-----------------------------------------
+-------------------------------
 
 You can reach the Platform Wizard by your browser in two ways:
 
 - from the same computer you installed GlobaLeaks on: http://127.0.0.1:8080/#/wizard
 
-- from your Tor Hidden Service hostname with Tor Browser: Example: http://2rwejhgkn3c2z56g.onion/#/login
+- from your Tor Hidden Service hostname with Tor Browser: Example: http://2rwejhgkn3c2z56g.onion/#/wizard
 
-.. note::
-   Loading the interface may take a while, due to the High Latency of Tor Hidden Service
+
+.. note:: Loading the interface may take a while, due to the High Latency of Tor Hidden Service
 
 
 This will bring you to the page for "Step-by-step setup"
-   
-   
+
+
 .. image:: wizard1.png
 
-   
+
 STEP 2: Choose the primary language for the site
 ------------------------------------------------
 
