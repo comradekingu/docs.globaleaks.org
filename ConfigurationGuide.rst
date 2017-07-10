@@ -17,19 +17,14 @@ You can reach the authentication interface with your browser in two ways:
 - or, from your Tor Hidden Service hostname with Tor Browser:
 
   Example: http://2rwejhgkn3c2z56g.onion/#/login
-   
-.. image:: wizard1.png
   
-
 .. note::
-   Loading the interface may take a while, due to the High Latency of Tor Hidden Service.
-   
-   
-.. todo::
-.. screenshot of the firt login interface
+   Loading the interface may take a while, due to the High Latency of Tor Hidden Service
    
    
    This will bring you to the page for "Step-by-step setup"
+   
+.. image:: wizard1.png
    
    Choose the primary language for the site. The default choice is English, but many others lanaguages are available and more are expected to be available.
 
