@@ -87,14 +87,15 @@ This is the wizard's section where you define Recipient (todo: insert cross-refe
 .. image:: wizard5.png
 
 
+Note that the recipient's password is set to a pre-defined value; the configured recipient will receive an email at the mail address inserted here, to change this default password to a more secure one.
+
 Click on the "next step" button to proceed.
 
 
 
-Needed fields are, by section:
    
  
-   - "Recipient" section
+ 
    
    - Name Email address Password PGP Key Option: Enable insecure configuration without PGP encryption.
    
