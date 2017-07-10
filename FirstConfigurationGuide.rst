@@ -46,6 +46,30 @@ This wizard's section is where you set up name and description of the project.
 .. image:: wizard2.png
 
 
+Choose a name and description that describe your project to the intended audience of your GlobaLeaks installation.
+
+When done, click on "next" button to access to the section where configuring admin credentials.
+
+
+STEP 4: Configure admin account
+-------------------------------
+
+This wizard's section is where you set up email adreess and password for the admin.
+
+Keep in mind to choose a strong password in order to protect this sensitive account.
+
+
+.. image:: wizard3.png
+
+
+In order to proceed, click on the "next" button.
+
+
+STEP 5: 
+---------------
+
+
+
 Needed fields are, by section:
    
    - "General", section Project name Project description
