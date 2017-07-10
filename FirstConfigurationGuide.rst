@@ -66,8 +66,8 @@ Keep in mind to choose a strong password in order to protect this sensitive acco
 In order to proceed, click on the "next step" button.
 
 
-STEP 5: Setting up the Context
--------------------------------
+STEP 5: Setting up a Context
+-----------------------------
 
 In this section of the configuration wizard you set up the Context (todo: insert cross-reference with matching term in Glossary).
 
@@ -78,8 +78,16 @@ In this section of the configuration wizard you set up the Context (todo: insert
 Click on the "next step" button to proceed.
 
 
-STEP 6: 
-----------
+STEP 6: Setting up a Recipient for the Context
+-----------------------------------------------
+
+This is the wizard's section where you define Recipient (todo: insert cross-reference with matching term in Glossary) for the named Context.
+
+
+.. image:: wizard5.png
+
+
+Click on the "next step" button to proceed.
 
 
 
