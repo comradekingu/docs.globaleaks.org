@@ -8,7 +8,7 @@ http://localhost:8080/#/admin
 
 .. image:: admin0.png
 
-To log in as administrator, use the admin credentials created at ˆSTEP 4 of the First Configuration Guideˆ_ (to do: insert cross reference).
+To log in as administrator, use the admin credentials created at ˆSTEP 4 of the First Configuration Guideˆ_.
 The admin interface shows all the configurable options:
 
 .. image:: admin1.png
