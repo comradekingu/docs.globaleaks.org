@@ -6,7 +6,7 @@ It is possible to tweak every aspect of your GlobaLeaks installation by accessin
 
 http://localhost:8080/#/admin
 
-.. image:: admin1.png
+.. image:: admin0.png
 
 To log in as administrator, use the admin credentials created at STEP 4 of the First COnfiguration Guide (to do: insert cross reference)
 
