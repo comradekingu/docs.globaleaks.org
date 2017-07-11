@@ -12,7 +12,6 @@ To log in as administrator, use the admin credentials created at STEP 4 of the F
 
 
 
-
 STEP 2 - Login as admin
 -----------------------
 
