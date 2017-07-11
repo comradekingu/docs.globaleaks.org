@@ -89,20 +89,20 @@ This is the wizard's section where you define Recipient (todo: insert cross-refe
 
 Note that the recipient's password is set to a pre-defined value; the configured recipient will receive an email at the mail address inserted here, to change this default password to a more secure one.
 
-Click on the "next step" button to proceed.
+Click on the "next step" button to proceed; a success page will be presented, from which you can proceed to Configure the details of your GlobaLeaks installation by accessing the Admin interface through the "Go to Admin interface" button.
+
+.. image:: wizard6.png
 
 
+
+STEP 7: Admin interface login
+-----------------------------------------------
+
+The admin interface i
 
    
  
  
-   
-   - Name Email address Password PGP Key Option: Enable insecure configuration without PGP encryption.
-   
-  
-   
-   - Name
-   
    
    Once this is done, a "next step" button will appear. Click on it when ready.
 
