@@ -8,7 +8,7 @@ http://localhost:8080/#/admin
 
 .. image:: admin0.png
 
-To log in as administrator, use the admin credentials created at STEP 4 of the First Configuration Guide (to do: insert cross reference).
+To log in as administrator, use the admin credentials created at ˆSTEP 4 of the First Configuration Guideˆ_ (to do: insert cross reference).
 The admin interface shows all the configurable options:
 
 .. image:: admin1.png
@@ -17,24 +17,7 @@ The admin interface shows all the configurable options:
 
 
 
-STEP 2 - Login as admin
------------------------
 
-You should login to the admin interface of your GlobaLeaks node. Link http://your-url:your-port/#/admin/landing
-
-Login with the following default credentials:
-
-Username: admin
-Password: globaleaks
-STEP 3 - Change your admin password
-
-Click on Admin Password . As a first step you should change the default GlobaLeaks password.
-
-Change your password by filling:
-
-Old Password: globaleaks
-New Password: YourOwnChoosenPassword
-STEP 4 - Configure GlobaLeaks basic data
 
 Click on Content Settings . The time has come to set up the basic branding information about your node.
 
