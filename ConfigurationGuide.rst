@@ -8,22 +8,26 @@ http://localhost:8080/#/admin
 
 .. image:: admin0.png
 
-To log in as administrator, use the admin credentials created at `"STEP 4 of the First Configuration Guide"`_.
+To log in as administrator, use the admin credentials created at STEP 4 of the First Configuration Guide (todo: insert cross reference with the mentioned doc).
+
 The admin interface shows all the configurable options:
 
 .. image:: admin1.png
 
+By clicking on "General" in the menu on the left of the page, it will be possible to access to the different tabs that allows to configure and customize the GlobaLeaks node in its every aspect:
+
+.. image:: admin2.png
+
+The first thing you want to give to your GlobaLeaks installation is its identity by adding a logo and a favicon. 
+
+To add the logo select the "Theme Customisation" tab, click on "+upload" button under "Project Logo" and select from your disk an image of your desired logo in .png format, dimension 140x140 pixels
+
+To add the favicon, in the same "Theme Customisation" tab, click on "+upload" button under "Project favicon" and select from your local disk an image in .png format, dimensions ?x? pixels (todo: insert image size for the favicon)
+
+.. image:: admin3.png
 
 
 
-
-
-
-Click on Content Settings . The time has come to set up the basic branding information about your node.
-
-Logo: Upload an image of 140x140 pixels, in PNG-format
-Select File
-Click Upload
 Node Name: The name of your initiative (will appear in the header)
 Node Subtitle: The payoff to be shown under your Node Name (will appear in the header)
 Description: Information about your initiative (will appear in the header)
@@ -31,7 +35,7 @@ Email: The email to the initiative maintainer (Currently not used by the softwar
 Presentation: The text shown on the landing page that users are presented with.
 Footer: A small text shown at the bottom of each page
 Tor Hidden Service: Your Tor Hidden Service hostname with HTTP:// (Used in notification email)
-Tor2web Public Site: Your Tor2web Public Site with HTTPS:// (Used in notification email)
+
 Please consider that currently GlobaLeaks does only allow "text" editing with no formatting or URL-linking. Work is underway to enable editing with a dual WYSIWYG rich text editor, along with markdown manual tweaking as per https://github.com/globaleaks/GlobaLeaks/issues/618 .
 
 STEP 5 - Configure Email Notification
