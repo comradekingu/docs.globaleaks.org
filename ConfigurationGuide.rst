@@ -18,6 +18,9 @@ By clicking on "General" in the menu on the left of the page, it will be possibl
 
 .. image:: admin2.png
 
+
+Add a logo and a favicon
+-------------------------
 The first thing you want to give to your GlobaLeaks installation is its identity by adding a logo and a favicon. 
 
 To add the logo select the "Theme Customisation" tab, click on "+upload" button under "Project Logo" and select from your disk an image of your desired logo in .png format, dimension 140x140 pixels
@@ -25,6 +28,11 @@ To add the logo select the "Theme Customisation" tab, click on "+upload" button 
 To add the favicon, in the same "Theme Customisation" tab, click on "+upload" button under "Project favicon" and select from your local disk an image in .png format, dimensions ?x? pixels (todo: insert image size for the favicon)
 
 .. image:: admin3.png
+
+Scroll down along the page to reach the "Save" button, click on it and have your logo and favicon applied.
+
+.. image:: admin4.png
+
 
 
 
