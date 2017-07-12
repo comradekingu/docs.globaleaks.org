@@ -44,7 +44,9 @@ Scroll down along the page to reach the "Save" button, click on it and have your
 
 Select Additional Languages
 ---------------------------
-You may want your GlobaLeaks installation served on more than one language, other the one selected as primary during First Configuration (todo: insert cross refetence).
+You may want your GlobaLeaks installation served on more than one language, other the one selected as primary during First Configuration (todo: insert cross reference).
+
+
 
 
 
