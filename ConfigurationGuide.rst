@@ -6,15 +6,20 @@ It is possible to tweak every aspect of your GlobaLeaks installation by accessin
 
 http://localhost:8080/#/admin
 
+
 .. image:: admin0.png
+
 
 To log in as administrator, use the admin credentials created at STEP 4 of the First Configuration Guide (todo: insert cross reference with the mentioned doc).
 
 The admin interface shows all the configurable options:
 
+
 .. image:: admin1.png
 
+
 By clicking on "General" in the menu on the left of the page, it will be possible to access to the different tabs that allows to configure and customize the GlobaLeaks node in its every aspect:
+
 
 .. image:: admin2.png
 
@@ -27,12 +32,19 @@ To add the logo select the "Theme Customisation" tab, click on "+upload" button 
 
 To add the favicon, in the same "Theme Customisation" tab, click on "+upload" button under "Project favicon" and select from your local disk an image in .png format, dimensions ?x? pixels (todo: insert image size for the favicon)
 
+
 .. image:: admin3.png
+
 
 Scroll down along the page to reach the "Save" button, click on it and have your logo and favicon applied.
 
+
 .. image:: admin4.png
 
+
+Select Additional Languages
+---------------------------
+You may want your GlobaLeaks installation served on more than one language, other the one selected as primary during First Configuration (todo: insert cross refetence).
 
 
 
