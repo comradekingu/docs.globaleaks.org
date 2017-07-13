@@ -62,7 +62,7 @@ Configure the descriptive texts
 To customize the texts that are shown in the GlobaLeaks install, from the "Administration Interface - General Settings" page, select the "Main Configuration" tab. A list of all customizable fields is shown:
 
  - Project Name: The name of your whistleblowing initiative (will appear in the header)
- - Homepage Title: 
+ - Homepage Title: the title of the page as it appears in the browser
  - Presentation
  - Description
  - Footer
