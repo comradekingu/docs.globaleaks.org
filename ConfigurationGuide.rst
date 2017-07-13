@@ -30,7 +30,7 @@ The first thing you want to give to your GlobaLeaks installation is its identity
 
 To add the logo select the "Theme Customisation" tab, click on "+upload" button under "Project Logo" and select from your disk an image of your desired logo in .png format, dimension 140x140 pixels
 
-To add the favicon, in the same "Theme Customisation" tab, click on "+upload" button under "Project favicon" and select from your local disk an image in .png format, dimensions ?x? pixels (todo: insert image size for the favicon)
+To add the favicon, in the same "Theme Customisation" tab, click on "+upload" button under "Project favicon" and select from your local disk a favicon image in .png format
 
 
 .. image:: admin3.png
@@ -45,6 +45,14 @@ Scroll down along the page to reach the "Save" button, click on it and have your
 Select Additional Languages
 ---------------------------
 You may want your GlobaLeaks installation served on more than one language, other the one selected as primary during First Configuration (todo: insert cross reference).
+
+To do so, in the "Administration Interface - General Settings" page, select the "Languages" tab: a list of all available languages in shown. Select the alternative choosen langauge(s) and scroll down trhrough the page to the "Save" button, click it to save your choices.
+
+Note that in the same interface you can change, through a drop down menu, the default language in which GlobaLeaks installation is served.
+
+.. image:: admin5.png
+
+
 
 
 
