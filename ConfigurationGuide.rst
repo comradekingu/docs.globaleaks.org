@@ -26,6 +26,7 @@ By clicking on "General" in the menu on the left of the page, it will be possibl
 
 Add a logo and a favicon
 -------------------------
+
 The first thing you want to give to your GlobaLeaks installation is its identity by adding a logo and a favicon. 
 
 To add the logo select the "Theme Customisation" tab, click on "+upload" button under "Project Logo" and select from your disk an image of your desired logo in .png format, dimension 140x140 pixels
@@ -44,14 +45,43 @@ Scroll down along the page to reach the "Save" button, click on it and have your
 
 Select Additional Languages
 ---------------------------
+
 You may want your GlobaLeaks installation served on more than one language, other the one selected as primary during First Configuration (todo: insert cross reference).
 
 To do so, in the "Administration Interface - General Settings" page, select the "Languages" tab: a list of all available languages in shown. Select the alternative choosen langauge(s) and scroll down trhrough the page to the "Save" button, click it to save your choices.
 
 Note that in the same interface you can change, through a drop down menu, the default language in which GlobaLeaks installation is served.
 
+
 .. image:: admin5.png
 
+
+Configure the descriptive texts
+--------------------------------
+
+To customize the texts that are shown in the GlobaLeaks install, from the "Administration Interface - General Settings" page, select the "Main Configuration" tab. A list of all customizable fields is shown:
+
+ - Project Name: The name of your whistleblowing initiative (will appear in the header)
+ - Homepage Title: 
+ - Presentation
+ - Description
+ - Footer
+ - Question to solicit possible whistleblowers
+ - Whistleblowing button 
+ - Text of prompt for whistleblowers to log in
+ - Title of the submission page
+ - Title of the receipt page
+ - Title of the submission status page
+ - Title of the comments widget
+ - Title of the messages widget
+ - Title of the attachments widget
+ - Text shown on top of the interface for selecting contexts
+
+
+
+Select the context of your submission:
+ Show contexts in alphabetical order
+Type of context selector:
 
 
 
@@ -64,7 +94,6 @@ Description: Information about your initiative (will appear in the header)
 Email: The email to the initiative maintainer (Currently not used by the software)
 Presentation: The text shown on the landing page that users are presented with.
 Footer: A small text shown at the bottom of each page
-Tor Hidden Service: Your Tor Hidden Service hostname with HTTP:// (Used in notification email)
 
 Please consider that currently GlobaLeaks does only allow "text" editing with no formatting or URL-linking. Work is underway to enable editing with a dual WYSIWYG rich text editor, along with markdown manual tweaking as per https://github.com/globaleaks/GlobaLeaks/issues/618 .
 
