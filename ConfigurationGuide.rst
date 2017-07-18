@@ -79,7 +79,6 @@ Enter the followings:
 - Transport Security: from the drop down menu select the opportune security level 
 
 
-
 .. image:: notification_settings_2.png
 
 
