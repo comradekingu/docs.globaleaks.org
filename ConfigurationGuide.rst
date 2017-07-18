@@ -59,6 +59,11 @@ Note that in the same interface you can change, through a drop down menu, the de
 Configure Email Notification
 ----------------------------
 
+GlobaLeaks sends notifications of different events to different receivers. In order to have this working you have to select  "Notification Settings" in the "Administration Interface - General Settings" page.
+
+
+.. image:: notification_settings_1.png
+
 
 
 
