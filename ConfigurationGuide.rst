@@ -56,6 +56,12 @@ Note that in the same interface you can change, through a drop down menu, the de
 .. image:: admin5.png
 
 
+Configure Email Notification
+----------------------------
+
+
+
+
 Configure the descriptive texts
 --------------------------------
 
