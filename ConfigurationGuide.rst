@@ -69,13 +69,18 @@ We suggest you to setup an email account dedicated to sending out notifications 
 
 Enter the followings:
 
-- SMTP name: insert here the name of your GlobaLeaks project
+
+- SMTP name: the name of your GlobaLeaks project or something that equally descriptive
 - SMTP email address: the email address used to send notifications
 - Username: the username corresponding to the just inserted "SMTP email address"; this is needed to authenticate to the SMTP server and send emails
 - Password: Password of the above corresponding "SMTP email address"
 - SMTP Server Address: it is the hostname of the SMTP server you are using to send notification emails
 - SMTP Server Port: Port used to send outgoing emails. It is usually 465 or 587 (SMTP with TLS is at TCP port 587; SMTP with SSL is at 465)
 - Transport Security: from the drop down menu select the opportune security level 
+
+
+
+.. image:: notification_settings_2.png
 
 
 
