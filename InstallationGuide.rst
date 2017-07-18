@@ -14,7 +14,9 @@ Before starting the installation, make sure to read and understand the :doc:`Tec
 - Copy & Paste the following commands in your terminal: ::
 
   wget https://deb.globaleaks.org/install-globaleaks.sh
+  
   chmod +x install-globaleaks.sh
+  
   ./install-globaleaks.sh
   
 
