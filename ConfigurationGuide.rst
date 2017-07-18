@@ -59,10 +59,23 @@ Note that in the same interface you can change, through a drop down menu, the de
 Configure Email Notification
 ----------------------------
 
-GlobaLeaks sends notifications of different events to different receivers. In order to have this working you have to select  "Notification Settings" in the "Administration Interface - General Settings" page.
+GlobaLeaks sends out notifications of different events to different receivers and to admins. In order to have this working, you have to select  "Notification Settings" in the "Administration Interface - General Settings" page and set up email account and related server parameters.
+
+We suggest you to setup an email account dedicated to sending out notifications from your initiative.
 
 
 .. image:: notification_settings_1.png
+
+
+Enter the followings:
+
+- SMTP name: insert here the name of your GlobaLeaks project
+- SMTP email address: the email address used to send notifications
+- Username: the username corresponding to the just inserted "SMTP email address"; this is needed to authenticate to the SMTP server and send emails
+- Password: Password of the above corresponding "SMTP email address"
+- SMTP Server Address: it is the hostname of the SMTP server you are using to send notification emails
+- SMTP Server Port: Port used to send outgoing emails. It is usually 465 or 587 (SMTP with TLS is at TCP port 587; SMTP with SSL is at 465)
+- Transport Security: from the drop down menu select the opportune security level 
 
 
 
@@ -108,19 +121,8 @@ Footer: A small text shown at the bottom of each page
 
 Please consider that currently GlobaLeaks does only allow "text" editing with no formatting or URL-linking. Work is underway to enable editing with a dual WYSIWYG rich text editor, along with markdown manual tweaking as per https://github.com/globaleaks/GlobaLeaks/issues/618 .
 
-STEP 5 - Configure Email Notification
 
-Click on Notification Settings . Set up email account and related server parameters, used by GlobaLeaks to send out notifications related to submissions to recipients.
 
-We suggest you to setup an email account dedicated to sending out notifications from your initiative.
-
-Enter the following data:
-
-Username: Address of the email account used as a username to send email and authenticate with
-Password: Password of the email account
-SMTP Server: Outgoing server (SMTP) used to send emails from this account
-SMTP Port: Port used to send outgoing email (may be 465 or 587 depending on server settings)
-Transport Security: The transport level security of SMTP (SMTP with TLS is at TCP port 587, but SMTP with SSL is at 465)
 STEP 6 - Add new recipients
 
 Click on recipient. Now you should add the recipients, people who handle the submissions from whistleblowers.
