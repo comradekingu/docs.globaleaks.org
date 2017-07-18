@@ -16,6 +16,8 @@ You can reach the Platform Wizard by your browser in two ways:
   - from your Tor Hidden Service hostname with Tor Browser: Example: http://2rwejhgkn3c2z56g.onion/#/wizard
 
 
+(You can find the onion address of your GlobaLeaks installation in /var/globaleaks/log/globaleaks.log some minutes after globaleaks has been launched after the successful ending of the install script)
+
 Note that loading the interface may take a while, due to the High Latency of Tor Hidden Service
 
 
