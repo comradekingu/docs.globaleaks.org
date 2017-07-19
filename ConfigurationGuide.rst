@@ -79,7 +79,20 @@ Enter the followings:
 - Transport Security: from the drop down menu select the opportune security level 
 
 
+
 .. image:: notification_settings_2.png
+
+
+
+It is better to leave untouched the pre-defined settings pertaining the notification to admins and to recipients, but in the case you want to disable them, it is possibile to check the corresponding checkboxes.
+
+You can then set the value for the time at which the notification alert of expiring submission; this value is set at 72hours to give time to the recipient(s) to check and manage the pending submissions.
+
+It is possible to tweak the maximum number of emails allowed in an hour, before email wil be suspended in order to avoid flooding the system. It is advised to keep the pre-defined value, and eventually change it accordingly with mail server capabilities.
+
+Once configured all the parameters for notifications, it is possible to test them by just clicking on the "Test the configuration" button. 
+
+If all is working as expected, click on the "Save" button to keep the configured parameters.
 
 
 
