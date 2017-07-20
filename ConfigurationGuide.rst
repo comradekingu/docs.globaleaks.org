@@ -83,7 +83,6 @@ Enter the followings:
 .. image:: notification_settings_2.png
 
 
-
 It is better to leave untouched the pre-defined settings pertaining the notification to admins and to recipients, but in the case you want to disable them, it is possibile to check the corresponding checkboxes.
 
 You can then set the value for the time at which the notification alert of expiring submission; this value is set at 72hours to give time to the recipient(s) to check and manage the pending submissions.
@@ -98,7 +97,8 @@ If all is working as expected, click on the "Save" button to keep the configured
 Configure HTTPS
 ---------------
 
-Work In Progress
+.. Important::
+  Work In Progress
 
 
 
