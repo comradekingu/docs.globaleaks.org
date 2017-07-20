@@ -128,6 +128,25 @@ To configure HTTPS the easy way, with free certificate from Let's Encrypt (https
 .. image:: HTTPS_Config_Automatic_Option_1.png
 
 
+This can take a little and the "loading" symbol is shown
+
+
+.. image:: HTTPS_Config_Automatic_Option_2.png
+
+
+When ready, the system will prompt you to read the Term of Service from the Let's Encrypt site by clicking on the button "Read the Term of Service".
+If you agree to accept said TOS, check the checkbox "I agree to the Term of Service" and click on the "Proceed" button, this will start the automatic generation and installation of the Certificate. 
+
+
+.. image:: HTTPS_Config_Automatic_Option_3.png
+
+
+When this process is completed, you will be prompted asked for reviewing the configuration by clicking on the "Review" button, or immediately activate the configuration by clicking on "Activate" button.
+
+
+.. image:: HTTPS_Config_Automatic_Option_4.png
+
+
 
 Manual HTTPS Configuration
 ..........................
