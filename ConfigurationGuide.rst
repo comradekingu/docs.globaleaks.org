@@ -113,12 +113,10 @@ If the verification process is successful, just click on the "Proceed" button; o
 
 You then have to choose among two proposed options:
 
-  - **Automatic** : the entire process of requesting, enabling and renewing certificates will be handled from the Let's Encrypt Certificate Authority. The parent organization, the Internet Security Research Group, is committed to providing the service for free. (You can read more about this on https://letsencrypt.org)
+- **Automatic** : the entire process of requesting, enabling and renewing certificates will be handled from the Let's Encrypt Certificate Authority. The parent organization, the Internet Security Research Group, is committed to providing the service for free. (You can read more about this on https://letsencrypt.org)
   
-  - **Manual** : if you already have a certificate from a Certificate Authority, this is your option. A wizard will guide you through the process of installing said certificate
-  
- 
- 
+- **Manual** : if you already have a certificate from a Certificate Authority, this is your option. A wizard will guide you through the process of installing said certificate
+
 
 .. IMPORTANT::
    From this point, it is work in progress!
