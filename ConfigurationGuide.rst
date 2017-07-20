@@ -171,6 +171,7 @@ To generate the Private Key, just click on "Generate" Button; to upload your exi
 
 
 
+
 Configure the descriptive texts
 --------------------------------
 
@@ -197,8 +198,6 @@ To customize the texts that are shown in the GlobaLeaks install, from the "Admin
 Select the context of your submission:
  Show contexts in alphabetical order
 Type of context selector:
-
-
 
 
 
