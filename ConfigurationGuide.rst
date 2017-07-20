@@ -110,6 +110,19 @@ To configure HTTPS, go to "Administration interface - Network settings" and sele
 .. image:: HTTPS_Conf_1.png
 
 
+If the verification process is successful, just click on the "Proceed" button; otherwise, you have to verify that the domain name you choose is correctly set up. Keep in mind that domain name propagation over DNS can take some time.
+
+
+.. image:: HTTPS_Conf_2.png
+
+
+You then have to choose among two proposed options:
+
+  - **Automatic** : the entire process of requesting, enabling and renewing certificates will be handled from the Let's Encrypt Certificate Authority. The parent organization, the Internet Security Research Group, is committed to providing the service for free. (You can read more about this on https://letsencrypt.org)
+  
+  - **Manual** : if you already have a certificate from a Certificate Authority, this is your option. A wizard will guide you through the process of installing said certificate
+  
+ 
 
 
 Configure the descriptive texts
