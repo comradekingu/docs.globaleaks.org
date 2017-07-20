@@ -118,6 +118,31 @@ You then have to choose among two proposed options:
 - **Manual** : if you already have a certificate from a Certificate Authority, this is your option. A wizard will guide you through the process of installing said certificate
 
 
+Automatic HTTPS Configuration
+.............................
+
+
+
+
+
+Manual HTTPS Configuration
+..........................
+
+The interface can generate a Private Key and a Certificate Signing Request. The Certificate Signing Request has to be provided to a Certificate Authority to retrieve a Certificate. After having validated your request and your ownership of the hostname, the Certificate Authority will issue you a Certificate and provide a file containing Intermediate Certificates. 
+Load both the Certificate and the file containing the Intermediate Certificates to complete the HTTPS setup. 
+
+
+.. image:: HTTPS_Config_Manual_Option_1.png
+
+
+
+.. IMPORTANT::
+  Please note that the file format expected for all files uploaded is PEM. Sometimes Certificate Authorities will provide certificates in DER format which must be converted to PEM.
+
+
+
+
+
 .. IMPORTANT::
    From this point, it is work in progress!
 
