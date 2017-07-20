@@ -141,7 +141,7 @@ If you agree to accept said TOS, check the checkbox "I agree to the Term of Serv
 .. image:: HTTPS_Config_Automatic_Option_3.png
 
 
-When this process is completed, you will be prompted asked for reviewing the configuration by clicking on the "Review" button, or immediately activate the configuration by clicking on "Activate" button.
+When this process is completed, you will be prompted for immdiately activate the configuration by clicking on the "Enable" button, or review the configuration by clicking on "Review" button.
 
 
 .. image:: HTTPS_Config_Automatic_Option_4.png
