@@ -136,7 +136,7 @@ Load both the Certificate and the file containing the Intermediate Certificates 
 
 
 
-.. IMPORTANT::
+.. HINT::
   Please note that the file format expected for all files uploaded is PEM. Sometimes Certificate Authorities will provide certificates in DER format which must be converted to PEM.
 
 
