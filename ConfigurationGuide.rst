@@ -122,6 +122,10 @@ Automatic HTTPS Configuration
 .............................
 
 
+To configure HTTPS the easy way, with free certificate from Let's Encrypt (https://letsencrypt.org), just click on the "Proceed" button in the "Automatic" box
+
+
+.. image:: HTTPS_Config_Automatic_Option_1.png
 
 
 
@@ -132,14 +136,14 @@ The interface can generate a Private Key and a Certificate Signing Request. The 
 Load both the Certificate and the file containing the Intermediate Certificates to complete the HTTPS setup. 
 
 
+.. HINT::
+  Please note that the file format expected for all files uploaded is PEM. Sometimes Certificate Authorities will provide certificates in DER format which must be converted to PEM.
+  
+
 .. image:: HTTPS_Config_Manual_Option_1.png
 
 
-
-.. HINT::
-  Please note that the file format expected for all files uploaded is PEM. Sometimes Certificate Authorities will provide certificates in DER format which must be converted to PEM.
-
-
+To generate the Private Key, just click on "Generate" Button; to upload your existing Private Key, if any, click on "Upload" button.
 
 
 
