@@ -97,8 +97,17 @@ If all is working as expected, click on the "Save" button to keep the configured
 Configure HTTPS
 ---------------
 
-.. Important::
-  Work In Progress
+.. IMPORTANT::
+   This paragraph is work in progress!
+
+
+It is quite important to configure HTTPS for your GlobaLeaks installation. Nowadays, every website should protect its users with HTTPS, and this is so much true for a whistleblowing system. HTTPS helps prevent malicioous actors from tampering the communications between your GlobaLeaks installation and the browser of the users.
+
+To configure HTTPS, go to "Administration interface - Network settings" and select the "HTTPS Settings" tab. If not already filled with the hostname of the GlobaLeaks installation you are configuring, just fill the "Hostname" field with the FQDN and click on the "Verify" button.
+
+
+.. image:: HTTPS_Conf_1.png
+
 
 
 
