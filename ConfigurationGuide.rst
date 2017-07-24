@@ -141,28 +141,28 @@ If you agree to accept said TOS, check the checkbox "I agree to the Term of Serv
 .. image:: HTTPS_Config_Automatic_Option_3.png
 
 
-When this process is completed, you will be prompted for immdiately activate the configuration by clicking on the "Enable" button, or review the configuration by clicking on "Review" button.
+When this process is completed, you will be prompted to immediately activate the configuration by clicking on the "Enable" button, or review the configuration by clicking on "Review" button.
 
 
 .. image:: HTTPS_Config_Automatic_Option_4.png
 
 
-
 Manual HTTPS Configuration
 ..........................
 
-The interface can generate a Private Key and a Certificate Signing Request. The Certificate Signing Request has to be provided to a Certificate Authority to retrieve a Certificate. After having validated your request and your ownership of the hostname, the Certificate Authority will issue you a Certificate and provide a file containing Intermediate Certificates. 
+.. HINT::
+  Choose this option only if you know what you are doing  
+
+
+.. image:: HTTPS_Config_Manual_Option_1.png
+
+  
+The interface can generate the Private Key and the Certificate Signing Request. The Certificate Signing Request has to be provided to a Certificate Authority (usually, your ISP can help you with this) to retrieve a Certificate. After having validated your request and your ownership of the hostname, the Certificate Authority will issue you a Certificate and provide a file containing Intermediate Certificates. 
 Load both the Certificate and the file containing the Intermediate Certificates to complete the HTTPS setup. 
 
 
 .. HINT::
   Please note that the file format expected for all files uploaded is PEM. Sometimes Certificate Authorities will provide certificates in DER format which must be converted to PEM.
-  
-
-.. image:: HTTPS_Config_Manual_Option_1.png
-
-
-To generate the Private Key, just click on "Generate" Button; to upload your existing Private Key, if any, click on "Upload" button.
 
 
 
