@@ -167,4 +167,4 @@ Load both the Certificate and the file containing the Intermediate Certificates 
 
 
 .. IMPORTANT::
-   From this point, the documentaiont is work in progress!
+  From this point, the documentation is work in progress!
