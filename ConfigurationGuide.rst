@@ -127,6 +127,7 @@ Load both the Certificate and the file containing the Intermediate Certificates 
   Please note that the file format expected for all files uploaded is PEM. Sometimes Certificate Authorities will provide certificates in DER format which must be converted to PEM.
 
 
+
 Configure Recipients
 --------------------
 
@@ -137,6 +138,7 @@ You can have one or multiple Recipients per Context, and also have one Recipient
 
 .. IMPORTANT::
   This part has to be completed
+
 
   
 Configure Context
@@ -149,6 +151,7 @@ The context is sort a conceptual container of your whistleblowing initiative. To
 
 .. IMPORTANT::
   This part has to be completed
+
 
 
 Configure Email Notification
