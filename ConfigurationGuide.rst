@@ -56,44 +56,6 @@ Note that in the same interface you can change, through a drop down menu, the de
 .. image:: admin5.png
 
 
-Configure Email Notification
-----------------------------
-
-GlobaLeaks sends out notifications of different events to different receivers and to admins. In order to have this working, you have to select  "Notification Settings" in the "Administration Interface - General Settings" page and set up email account and related server parameters.
-
-We suggest you to setup an email account dedicated to sending out notifications from your initiative.
-
-
-.. image:: notification_settings_1.png
-
-
-Enter the followings:
-
-
-- SMTP name: the name of your GlobaLeaks project or something that equally descriptive
-- SMTP email address: the email address used to send notifications
-- Username: the username corresponding to the just inserted "SMTP email address"; this is needed to authenticate to the SMTP server and send emails
-- Password: Password of the above corresponding "SMTP email address"
-- SMTP Server Address: it is the hostname of the SMTP server you are using to send notification emails
-- SMTP Server Port: Port used to send outgoing emails. It is usually 465 or 587 (SMTP with TLS is at TCP port 587; SMTP with SSL is at 465)
-- Transport Security: from the drop down menu select the opportune security level 
-
-
-
-.. image:: notification_settings_2.png
-
-
-It is better to leave untouched the pre-defined settings pertaining the notification to admins and to recipients, but in the case you want to disable them, it is possibile to check the corresponding checkboxes.
-
-You can then set the value for the time at which the notification alert of expiring submission; this value is set at 72hours to give time to the recipient(s) to check and manage the pending submissions.
-
-It is possible to tweak the maximum number of emails allowed in an hour, before email wil be suspended in order to avoid flooding the system. It is advised to keep the pre-defined value, and eventually change it accordingly with mail server capabilities.
-
-Once configured all the parameters for notifications, it is possible to test them by just clicking on the "Test the configuration" button. 
-
-If all is working as expected, click on the "Save" button to keep the configured parameters.
-
-
 Configure HTTPS
 ---------------
 
@@ -163,6 +125,44 @@ Load both the Certificate and the file containing the Intermediate Certificates 
 
 .. HINT::
   Please note that the file format expected for all files uploaded is PEM. Sometimes Certificate Authorities will provide certificates in DER format which must be converted to PEM.
+
+
+Configure Email Notification
+----------------------------
+
+GlobaLeaks sends out notifications of different events to different receivers and to admins. In order to have this working, you have to select  "Notification Settings" in the "Administration Interface - General Settings" page and set up email account and related server parameters.
+
+We suggest you to setup an email account dedicated to sending out notifications from your initiative.
+
+
+.. image:: notification_settings_1.png
+
+
+Enter the followings:
+
+
+- SMTP name: the name of your GlobaLeaks project or something that equally descriptive
+- SMTP email address: the email address used to send notifications
+- Username: the username corresponding to the just inserted "SMTP email address"; this is needed to authenticate to the SMTP server and send emails
+- Password: Password of the above corresponding "SMTP email address"
+- SMTP Server Address: it is the hostname of the SMTP server you are using to send notification emails
+- SMTP Server Port: Port used to send outgoing emails. It is usually 465 or 587 (SMTP with TLS is at TCP port 587; SMTP with SSL is at 465)
+- Transport Security: from the drop down menu select the opportune security level 
+
+
+
+.. image:: notification_settings_2.png
+
+
+It is better to leave untouched the pre-defined settings pertaining the notification to admins and to recipients, but in the case you want to disable them, it is possibile to check the corresponding checkboxes.
+
+You can then set the value for the time at which the notification alert of expiring submission; this value is set at 72hours to give time to the recipient(s) to check and manage the pending submissions.
+
+It is possible to tweak the maximum number of emails allowed in an hour, before email wil be suspended in order to avoid flooding the system. It is advised to keep the pre-defined value, and eventually change it accordingly with mail server capabilities.
+
+Once configured all the parameters for notifications, it is possible to test them by just clicking on the "Test the configuration" button. 
+
+If all is working as expected, click on the "Save" button to keep the configured parameters.
 
 
 
