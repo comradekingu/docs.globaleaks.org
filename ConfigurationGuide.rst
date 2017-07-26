@@ -161,6 +161,11 @@ Then you will see that the new Context is addedd to the page and to access the c
 
 
 
+.. IMPORTANT::
+  This part is work in progress
+
+
+
 .. image:: Context_conf_3.png
 
 
@@ -211,4 +216,4 @@ If all is working as expected, click on the "Save" button to keep the configured
 
 
 .. IMPORTANT::
-  From this point, the documentation is work in progress!
+  This section is work in progress!
