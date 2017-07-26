@@ -4,7 +4,7 @@ Configuration Guide
 
 It is possible to tweak every aspect of your GlobaLeaks installation by accessing to the Admin interface available at:
 
-http://localhost:8080/#/admin
+http://localhost:8082/#/admin
 
 
 .. image:: admin0.png
@@ -125,6 +125,30 @@ Load both the Certificate and the file containing the Intermediate Certificates 
 
 .. HINT::
   Please note that the file format expected for all files uploaded is PEM. Sometimes Certificate Authorities will provide certificates in DER format which must be converted to PEM.
+
+
+Configure Recipients
+====================
+
+In the "First Configuration Guide" we have seen how to create a Recipient (or Receiver).
+The Recipient is the person that will receive and process the data that whistleblowers input in the platform.
+You can have one or multiple Recipients per Context, and also have one Recipient that can access to multiple Contexts. The platform is very flexible on this and allows you to define in very detail your whistleblowing system and procedure.
+
+
+.. IMPORTANT::
+  This part has to be completed
+
+  
+Configure Context
+=================
+
+In the "First Configuration Guide" we have seen how to create a Context.
+
+The context is sort a conceptual container of your whistleblowing initiative. To better understand this, just think about a whistleblowing initiative devoted to gather information about ethical misconducts infringing the ethical code of a governmental agency or of a company. When you configure the Context you will assign to it a name that can be evocative of the mission related to this context so that the whistleblowers know that this is the right place where to communicate their data. Then you would like to describe in more detail the context itself, so that whistleblower are informed that this is part of a whole process in which specific persons, the receivers, will receive the data they're submitting
+
+
+.. IMPORTANT::
+  This part has to be completed
 
 
 Configure Email Notification
