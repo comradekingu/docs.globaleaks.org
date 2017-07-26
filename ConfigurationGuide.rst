@@ -128,7 +128,7 @@ Load both the Certificate and the file containing the Intermediate Certificates 
 
 
 Configure Recipients
-====================
+--------------------
 
 In the "First Configuration Guide" we have seen how to create a Recipient (or Receiver).
 The Recipient is the person that will receive and process the data that whistleblowers input in the platform.
@@ -140,7 +140,7 @@ You can have one or multiple Recipients per Context, and also have one Recipient
 
   
 Configure Context
-=================
+-----------------
 
 In the "First Configuration Guide" we have seen how to create a Context.
 
