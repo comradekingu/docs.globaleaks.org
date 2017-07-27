@@ -148,7 +148,7 @@ In the "First Configuration Guide" we have seen how to create a Context.
 
 The context is sort a conceptual container of your whistleblowing initiative. To better understand this, just think about a whistleblowing initiative devoted to gather information about ethical misconducts infringing the ethical code of a governmental agency or of a company. When you configure the Context you will assign to it a name that can be evocative of the mission related to this context so that the whistleblowers know that this is the right place where to communicate their data. Then you would like to describe in more detail the context itself, so that whistleblower are informed that this is part of a whole process in which specific persons, the receivers, will receive and follow up on the data they're submitting.
 
-To configure a Context, just go to http://example.globaleaks.org/#/admin/contexts as an admin and fill the text field with the name choosen for the Context, then click on "Add" button.
+To configure a Context, log in as an admin, go to the administration interface, select "Context configuration" in the menu on the left of the page and fill the text field with the name choosen for the Context, then click on "Add" button.
 
 
 .. image:: Context_conf_1.png
@@ -160,13 +160,15 @@ Then you will see that the new Context is addedd to the page and to access the c
 .. image:: Context_conf_2.png
 
 
-
-.. IMPORTANT::
-  This part is work in progress
-
+The configuration interface specific of the selected context is shown and you can proceed with filling of the various field.
 
 
 .. image:: Context_conf_3.png
+
+
+The most important field in this section at this stage of the configuration process is surely the "Text shown on top of the interface for selecting recipients": this text will be shown in the interface exposed to the whistleblowers. So be sure to use suitable and appealing terms and phrases and be clear in explaining which data are accepted, who will be the recipients, which is the follow up of the submitted data. Just think of this text as the main tool to convince your source to submit data through this channel.
+Once completed this task, click on "Save" button.
+You can verify the appearance by visiting ...
 
 
 
