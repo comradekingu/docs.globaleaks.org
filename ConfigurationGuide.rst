@@ -109,6 +109,16 @@ When this process is completed, you will be prompted to immediately activate the
 .. image:: HTTPS_Config_Automatic_Option_4.png
 
 
+By clicking on "Enable", the system will provide to configure entirely the feature and you will be shown this alert box:
+
+
+.. image:: HTTPS_Automatic_Conf_Ongoing.png
+
+
+When finished you will be disconnected ad an admin and your browser redirected to the https version of the platform, where you can login to follow up with configuration.
+
+
+
 Manual HTTPS Configuration
 ..........................
 
