@@ -166,7 +166,7 @@ The configuration interface specific of the selected context is shown and you ca
 .. image:: Context_conf_3.png
 
 
-The most important field in this section at this stage of the configuration process is surely the "Text shown on top of the interface for selecting recipients": this text will be shown in the interface exposed to the whistleblowers. So be sure to use suitable and appealing terms and phrases and be clear in explaining which data are accepted, who will be the recipients, which is the follow up of the submitted data. Just think of this text as the main tool to convince your source to submit data through this channel.
+The most important field in this section at this stage of the configuration process is surely the **"Text shown on top of the interface for selecting recipients"**: this text will be shown in the interface exposed to the whistleblowers. So be sure to use suitable and appealing terms and phrases and be clear in explaining which data are accepted, who will be the recipients, which is the follow up of the submitted data. Just think of this text as the main tool to convince your source to submit data through this channel.
 Once completed this task, click on "Save" button.
 You can verify the appearance by visiting ...
 
