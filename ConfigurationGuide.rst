@@ -226,6 +226,5 @@ Once configured all the parameters for notifications, it is possible to test the
 If all is working as expected, click on the "Save" button to keep the configured parameters.
 
 
-
 .. IMPORTANT::
   This section is work in progress!
