@@ -5,7 +5,7 @@ Upgrade guide
 How to upgrade GlobaLeaks
 -------------------------
 
-To safely upgrade a GlobaLeaks please proceed with a backup of your setup by following the .. _Backup Guide
+To safely upgrade a GlobaLeaks please proceed with a backup of your setup by following the .. _Backup Guide: https://globaleaks.readthedocs.io/en/latest/UpgradeGuide.html
 
 This is necessary so that if something goes wrong and you need to rollback, you will be able to just uninstall the current package, then install the same version of globaleaks that is currently installed.
 
