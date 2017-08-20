@@ -13,9 +13,9 @@ Features
 
 - Support for temporary AES encryption of data that touches disk storage
 
-- Configurable secure submission deliveries with PGP
+- Configurable secure submission delivery with PGP
 
-- Mail templating system for all the different notifications mails sent by the system
+- Email templating system for all the different notifications emails sent by the system
 
 - Support for common DB systems: SQLite, (soon MySQL and PostgreSQL)
 
